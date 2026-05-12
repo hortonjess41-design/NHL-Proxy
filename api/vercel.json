@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/api/odds/(.*)", "destination": "/api/odds?path=$1" }]
+}
